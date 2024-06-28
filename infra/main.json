@@ -81,10 +81,10 @@
     "dalleLocation": {
       "type": "string",
       "allowedValues": [
-        "swedencentral"
+        "Australia East"
       ],
       "metadata": {
-        "description": "Location for the OpenAI DALL-E 3 instance resource group"
+        "description": "Location for the OpenAI DALL-E  instance resource group"
       }
     },
     "dalleDeploymentCapacity": {
@@ -93,11 +93,11 @@
     },
     "dalleDeploymentName": {
       "type": "string",
-      "defaultValue": "dall-e-3"
+      "defaultValue": "dall-e"
     },
     "dalleModelName": {
       "type": "string",
-      "defaultValue": "dall-e-3"
+      "defaultValue": "dall-e"
     },
     "dalleApiVersion": {
       "type": "string",
