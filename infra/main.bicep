@@ -36,8 +36,8 @@ param embeddingModelName string = 'text-embedding-ada-002'
 param dalleLocation string
 
 param dalleDeploymentCapacity int = 1
-param dalleDeploymentName string = 'dall-e-3'
-param dalleModelName string = 'dall-e-3'
+param dalleDeploymentName string = 'dall-e'
+param dalleModelName string = 'dall-e'
 param dalleApiVersion string = '2023-12-01-preview'
 
 // DALL-E v3 only supported in Sweden Central for now
